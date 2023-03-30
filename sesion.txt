@@ -1,0 +1,38 @@
+Script started on 2023-03-30 13:05:02+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="106" LINES="35"]
+[?2004h]0;alumno@aula456: ~/Descargas/CLASE_HOY_PRPA/chats[01;32malumno@aula456[00m:[01;34m~/Descargas/CLASE_HOY_PRPA/chats[00m$ python3 chat_listener.py 147.96.132.207[13@lient.py 6001 147.96.132.207[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20Pbroker.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[20@client.py 6001 147.96.132.207[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Phat_listener.py[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l
+listener starting
+accepting conexions
+connection accepted from ('147.96.132.206', 33586)
+sendingg new client ('147.96.132.206', 33586) to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+accepting conexions
+connection accepted from ('147.96.132.208', 42898)
+sendingg new client ('147.96.132.208', 42898) to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg new client ('147.96.132.208', 42898) to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+accepting conexions
+received message: holaaaa from ('147.96.132.208', 42898)
+sendingg holaaaa to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg holaaaa to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.208', 42898) to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.208', 42898) to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+('147.96.132.208', 42898) connection closed
+received message: eel ultimo disco el ultimo disco de taylor swift es una obra maestra from ('147.96.132.206', 33586)
+sendingg eel ultimo disco el ultimo disco de taylor swift es una obra maestra to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg eel ultimo disco el ultimo disco de taylor swift es una obra maestra to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.206', 33586) to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.206', 33586) to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+('147.96.132.206', 33586) connection closed
+received message: opino igual compañero Juan from ('147.96.132.208', 42898)
+sendingg opino igual compañero Juan to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg opino igual compañero Juan to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.208', 42898) to {'address': '147.96.132.206', 'port': 6001, 'authkey': b'secret client server'}
+sendingg quit_client ('147.96.132.208', 42898) to {'address': '147.96.132.208', 'port': 6111, 'authkey': b'secret client server'}
+('147.96.132.208', 42898) connection closed
+
+KeyboardInterrupt
+
+[?2004h]0;alumno@aula456: ~/Descargas/CLASE_HOY_PRPA/chats[01;32malumno@aula456[00m:[01;34m~/Descargas/CLASE_HOY_PRPA/chats[00m$ [?2004l
+
+exit
+
+Script done on 2023-03-30 13:06:04+02:00 [COMMAND_EXIT_CODE="130"]
